@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Salman-Moosa
+- 👀 I’m interested in App & Web Development
+- 🌱 I’m currently learning about Kotlin
+- 💞️ I’m looking to collaborate on regarding App & Web Development
+- 📫 How to reach me through email
