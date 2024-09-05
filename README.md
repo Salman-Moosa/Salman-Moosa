@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on  
+UI/UX design projects, wireframing, and front-end development using HTML, CSS, and JavaScript.
+
+👯 I’m looking to collaborate on  
+Front-end development and user-centered design projects, especially those involving prototyping and usability testing.
+
+🤝 I’m looking for help with  
+Advanced CSS techniques, responsive design, and improving user experience through interaction design.
+
+🌱 I’m currently learning  
+JavaScript frameworks, responsive design best practices, and improving UI aesthetics.
+
+💬 Ask me about myself  
+Front-end development, UI/UX design, or creating seamless user experiences.
 
 
 # 💻 Tech Stack:
