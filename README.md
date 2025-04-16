@@ -96,6 +96,8 @@ I have a knack for connecting seemingly unrelated ideas and technologies to crea
 </a>
 <a href="https://www.buymeacoffee.com/salmanmoosa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
+<a href="https://ko-fi.com/salmanmoosa" target="_blank" rel="noreferrer">
+   <img src="https://storage.ko-fi.com/cdn/logomarkLogo.png" alt="Ko-fi" width="80" height="60"/>
 
 ##
 
