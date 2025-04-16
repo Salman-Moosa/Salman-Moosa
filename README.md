@@ -1,59 +1,104 @@
-# 💫 About Me:
-🔭 I’m currently working on  
-UI/UX design projects, wireframing, and front-end development using HTML, CSS, and JavaScript.
+<h1>💫 About Me:</h1>
 
-👯 I’m looking to collaborate on  
-Front-end development and user-centered design projects, especially those involving prototyping and usability testing.
+<p>🔭 <strong>I’m currently working on</strong><br>
+Building scalable, user-focused applications that leverage emerging technologies such as cloud computing, real-time databases, and modern DevOps practices.</p>
 
-🤝 I’m looking for help with  
-Advanced CSS techniques, responsive design, and improving user experience through interaction design.
+<p>👯 <strong>I’m looking to collaborate on</strong><br>
+Open-source projects related to cloud infrastructure, DevOps automation, and innovative web/mobile applications. I’m especially interested in teams that value cross-disciplinary collaboration and creative problem-solving.</p>
 
-🌱 I’m currently learning  
-JavaScript frameworks, responsive design best practices, and improving UI aesthetics.
+<p>🤝 <strong>I’m looking for help with</strong><br>
+Exploring advanced AWS services, optimizing CI/CD pipelines, and integrating AI/ML features into practical applications. If you have expertise in these areas, let’s connect!</p>
 
-💬 Ask me about myself  
-Front-end development, UI/UX design, or creating seamless user experiences.
-
-
-# 💻 Tech Stack:
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> 
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C"> 
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"> 
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> 
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> 
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> 
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"> 
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"> 
-  <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat-square&logo=yaml&logoColor=151515" alt="YAML"> 
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" alt="Blender"> 
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma"> 
-  <img src="https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue" alt="Framer"> 
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva"> 
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"> 
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white" alt="SciPy"> 
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"> 
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"> 
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<p>🌱 <strong>I’m currently learning</strong><br>
+<ul>
+  <li>Advanced container orchestration with Kubernetes</li>
+  <li>Modern JavaScript frameworks (React, Next.js)</li>
+  <li>Cloud-native development and serverless architectures</li>
+  <li>3D design and visualization tools (Blender, Figma)</li>
+</ul>
 </p>
 
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<p>💬 <strong>Ask me about</strong><br>
+<ul>
+  <li>Building scalable cloud-based solutions</li>
+  <li>DevOps best practices and automation</li>
+  <li>UI/UX design for web and mobile</li>
+  <li>System integration and troubleshooting</li>
+  <li>Project management for tech teams</li>
+</ul>
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>⚡ <strong>Fun fact</strong><br>
+I have a knack for connecting seemingly unrelated ideas and technologies to create innovative solutions. Whether it’s blending design with code or integrating cloud services with real-time data, I love making things work seamlessly!</p>
+
+
+
+## Technical Skills
+
+#### Programming Languages
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a> 
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/>
+</a>
+
+</p>
+
+#### DevOps and Tools
+<p align="left"> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a> 
+  <img src="https://img.shields.io/badge/DevOps-007ACC?style=flat-square" alt="DevOps Practices"/>
+  <img src="https://img.shields.io/badge/CI/CD-333?style=flat-square&logo=gitlab" alt="CI/CD"/> 
+  <img src="https://img.shields.io/badge/Networking-5A6977?style=flat-square" alt="Networking Concepts"/>
+</p>
+
+#### Operating Systems & Shell Scripting
+<p align="left"> 
+  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
+  <a href="https://www.opengroup.org/unix" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" alt="UNIX" width="40" height="40"/> </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </a> 
+  <img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logo=powershell&logoColor=white" alt="CLI / Shell Commands"/>
+  <img src="https://img.shields.io/badge/Scripting-4D4D4D?style=flat-square" alt="Scripting Techniques"/>
+</p>
+
+#### Software Engineering Concepts
+<p align="left"> 
+  <img src="https://img.shields.io/badge/OOP-lightgrey?style=flat-square" alt="Object-Oriented Programming"/>
+  <img src="https://img.shields.io/badge/Design_Patterns-lightgrey?style=flat-square" alt="Design Patterns"/>
+  <img src="https://img.shields.io/badge/TDD-lightgrey?style=flat-square" alt="Test-Driven Development"/>
+  <img src="https://img.shields.io/badge/SDLC-lightgrey?style=flat-square" alt="SDLC"/>
+  <img src="https://img.shields.io/badge/Test_Automation-lightgrey?style=flat-square" alt="Test Automation"/>
+  <img src="https://img.shields.io/badge/Deployment-lightgrey?style=flat-square" alt="Deployment"/>
+  <img src="https://img.shields.io/badge/Cloud_Development-lightgrey?style=flat-square" alt="Cloud-Based Project Development"/>
+</p>
+
+#### Design and Visualization
+<p align="left"> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> </a> 
+<a href="https://www.autodesk.com/products/3ds-max/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/303505/3ds-max-full-logo.svg" alt="3ds Max" width="40" height="40"/>
+</a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/> </a> 
+</p>
+
+
+## 🌐 Socials:
+<a href="https://www.linkedin.com/in/salman-moosa/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="LinkedIn" width="50" height="40"/>
+</a>
+<a href="https://ko-fi.com/salmanmoosa" target="_blank" rel="noreferrer">
+  <img src="https://storage.ko-fi.com/cdn/logomarkLogo.png" alt="Ko-fi" width="50" height="40"/>
+</a>
+
+##
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
