@@ -56,21 +56,58 @@
 
 <div align="center">
 
-### Languages
+### Languages & Scripting
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,bash&theme=dark" alt="Languages"/>
+<br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/>
+
+### Databases & Backend
+
+<img src="https://skillicons.dev/icons?i=firebase,mysql,postgres&theme=dark" alt="Databases"/>
 
 ### DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,githubactions&theme=dark" alt="DevOps"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions&theme=dark" alt="DevOps"/>
+<br>
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Version Control"/>
 
-### Operating Systems & Tools
+### Operating Systems
 
-<img src="https://skillicons.dev/icons?i=linux,bash,windows,vscode&theme=dark" alt="OS & Tools"/>
+<img src="https://skillicons.dev/icons?i=linux,apple,windows&theme=dark" alt="Operating Systems"/>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,vim&theme=dark" alt="IDEs"/>
+<br>
+<img src="https://img.shields.io/badge/CLI-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="CLI"/>
+<img src="https://img.shields.io/badge/Build_Automation-02569B?style=for-the-badge&logo=gradle&logoColor=white" alt="Build"/>
+
+### AI & LLMs
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Open_WebUI-1a1a2e?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white" alt="Open WebUI"/>
 
 ### Design & Visualization
 
 <img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" alt="Design"/>
+<br>
+<img src="https://img.shields.io/badge/3ds_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="3ds Max"/>
+
+### Software Engineering
+
+<img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logoColor=white" alt="OOP"/>
+<img src="https://img.shields.io/badge/SDLC-0052CC?style=for-the-badge&logoColor=white" alt="SDLC"/>
+<img src="https://img.shields.io/badge/Design_Patterns-FF6F00?style=for-the-badge&logoColor=white" alt="Design Patterns"/>
+<img src="https://img.shields.io/badge/TDD-25A162?style=for-the-badge&logoColor=white" alt="TDD"/>
+
+### Productivity
+
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365"/>
+<img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/>
 
 </div>
 
