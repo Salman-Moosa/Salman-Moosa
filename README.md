@@ -1,105 +1,130 @@
-<h1>💫 About Me:</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Salman%20Moosa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<p>🔭 <strong>I’m currently working on</strong><br>
-Building scalable, user-focused applications that leverage emerging technologies such as cloud computing, real-time databases, and modern DevOps practices.</p>
-
-<p>👯 <strong>I’m looking to collaborate on</strong><br>
-Open-source projects related to cloud infrastructure, DevOps automation, and innovative web/mobile applications. I’m especially interested in teams that value cross-disciplinary collaboration and creative problem-solving.</p>
-
-<p>🤝 <strong>I’m looking for help with</strong><br>
-Exploring advanced AWS services, optimizing CI/CD pipelines, and integrating AI/ML features into practical applications. If you have expertise in these areas, let’s connect!</p>
-
-<p>🌱 <strong>I’m currently learning</strong><br>
-<ul>
-  <li>Advanced container orchestration with Kubernetes</li>
-  <li>Modern JavaScript frameworks (React, Next.js)</li>
-  <li>Cloud-native development and serverless architectures</li>
-  <li>3D design and visualization tools (Blender, Figma)</li>
-</ul>
-</p>
-
-<p>💬 <strong>Ask me about</strong><br>
-<ul>
-  <li>Building scalable cloud-based solutions</li>
-  <li>DevOps best practices and automation</li>
-  <li>UI/UX design for web and mobile</li>
-  <li>System integration and troubleshooting</li>
-  <li>Project management for tech teams</li>
-</ul>
-</p>
-
-<p>⚡ <strong>Fun fact</strong><br>
-I have a knack for connecting seemingly unrelated ideas and technologies to create innovative solutions. Whether it’s blending design with code or integrating cloud services with real-time data, I love making things work seamlessly!</p>
-
-
-
-## Technical Skills
-
-#### Programming Languages
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a> 
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/>
+<div align="center">
+  
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-</p>
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=salmanmoosa&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Profile Views"/>
 
-#### DevOps and Tools
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a> 
-  <img src="https://img.shields.io/badge/DevOps-007ACC?style=flat-square" alt="DevOps Practices"/>
-  <img src="https://img.shields.io/badge/CI/CD-333?style=flat-square&logo=gitlab" alt="CI/CD"/> 
-  <img src="https://img.shields.io/badge/Networking-5A6977?style=flat-square" alt="Networking Concepts"/>
-</p>
+</div>
 
-#### Operating Systems & Shell Scripting
-<p align="left"> 
-  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
-  <a href="https://www.opengroup.org/unix" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" alt="UNIX" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </a> 
-  <img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logo=powershell&logoColor=white" alt="CLI / Shell Commands"/>
-  <img src="https://img.shields.io/badge/Scripting-4D4D4D?style=flat-square" alt="Scripting Techniques"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-#### Software Engineering Concepts
-<p align="left"> 
-  <img src="https://img.shields.io/badge/OOP-lightgrey?style=flat-square" alt="Object-Oriented Programming"/>
-  <img src="https://img.shields.io/badge/Design_Patterns-lightgrey?style=flat-square" alt="Design Patterns"/>
-  <img src="https://img.shields.io/badge/TDD-lightgrey?style=flat-square" alt="Test-Driven Development"/>
-  <img src="https://img.shields.io/badge/SDLC-lightgrey?style=flat-square" alt="SDLC"/>
-  <img src="https://img.shields.io/badge/Test_Automation-lightgrey?style=flat-square" alt="Test Automation"/>
-  <img src="https://img.shields.io/badge/Deployment-lightgrey?style=flat-square" alt="Deployment"/>
-  <img src="https://img.shields.io/badge/Cloud_Development-lightgrey?style=flat-square" alt="Cloud-Based Project Development"/>
-</p>
+## 💫 About Me
 
-#### Design and Visualization
-<p align="left"> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> </a> 
-<a href="https://www.autodesk.com/products/3ds-max/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/303505/3ds-max-full-logo.svg" alt="3ds Max" width="40" height="40"/>
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+🔭 **Currently Working On**
+
+> Building scalable, user-focused applications leveraging cloud computing, real-time databases, and modern DevOps practices.
+
+👯 **Looking to Collaborate On**
+
+> Open-source projects in cloud infrastructure, DevOps automation, and innovative web/mobile apps.
+
+🤝 **Looking for Help With**
+
+> Advanced AWS services, CI/CD pipeline optimization, and integrating AI/ML features.
+
+🌱 **Currently Learning**
+
+- Advanced Kubernetes orchestration
+- React & Next.js frameworks
+- Cloud-native & serverless architectures
+- 3D design with Blender & Figma
+
+💬 **Ask Me About**
+
+- Scalable cloud solutions
+- DevOps best practices
+- UI/UX design
+- System integration
+
+⚡ **Fun Fact**
+
+> I love connecting seemingly unrelated ideas and technologies to create innovative, seamless solutions!
+
+<br clear="both">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css&theme=dark" alt="Languages"/>
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,githubactions&theme=dark" alt="DevOps"/>
+
+### Operating Systems & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,bash,windows,vscode&theme=dark" alt="OS & Tools"/>
+
+### Design & Visualization
+
+<img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" alt="Design"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=salmanmoosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1&text_color=a9b1d6" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=salmanmoosa&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366f1&fire=f97316&currStreakLabel=6366f1" alt="GitHub Streak"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanmoosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=a9b1d6" alt="Top Languages"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmanmoosa/salmanmoosa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmanmoosa/salmanmoosa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/salmanmoosa/salmanmoosa/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/salman-moosa/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/> </a> 
-</p>
-
-
-## 🌐 Socials:
-<a href="https://www.linkedin.com/in/salman-moosa/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="LinkedIn" width="60" height="60"/>
+<a href="https://www.buymeacoffee.com/salmanmoosa" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/>
 </a>
-<a href="https://www.buymeacoffee.com/salmanmoosa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+<a href="https://ko-fi.com/salmanmoosa" target="_blank">
+  <img src="https://img.shields.io/badge/Ko--Fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
 </a>
-<a href="https://ko-fi.com/salmanmoosa" target="_blank" rel="noreferrer">
-   <img src="https://storage.ko-fi.com/cdn/logomarkLogo.png" alt="Ko-fi" width="80" height="60"/>
 
-##
+</div>
 
+<br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
